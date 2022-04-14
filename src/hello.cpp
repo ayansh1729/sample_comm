@@ -11,7 +11,7 @@ int main(int argc, char **argv){
 
     //send some output as long message
 
-    ROS_INFO_STREAM("Hello world!!!");
+    ROS_INFO_STREAM("Hello chadarmod duniya!!");
 
     return 0;
 }
